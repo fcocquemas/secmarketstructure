@@ -1,0 +1,14 @@
+Package: secmarketstructure
+Type: Package
+Title: Retrieve the SEC market structure data
+Version: 0.1
+Date: 2013-10-14
+Author: Francois Cocquemas <francois.cocquemas@gmail.com>
+Maintainer: Francois Cocquemas <francois.cocquemas@gmail.com>
+Description: 
+  Retrieve the SEC market structure data 
+  (http://www.sec.gov/marketstructure/)
+  directly from R. This covers metrics by
+  individual security, by exchange and
+  by decile and quartile.
+License: MIT
